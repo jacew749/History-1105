@@ -69,8 +69,8 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 {% include images/figure-wrap.html
   image-path="images/clear_alienlandact.jpg"
-  image-position="left"
-  image-width="45%"
+  image-position="right"
+  image-width="50%"
   caption="The Las Cruces Sun News. "We Are United On Japanese Problem." November 28, 1919."
   text=value_reflection_text
 %}
