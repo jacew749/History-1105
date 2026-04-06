@@ -1,9 +1,9 @@
 ---
 title: "New Mexico's Alien Land Law"
 layout: scrollstory
-header-image: images/figure_1.jpg
-thumbnail: images/figure_1.jpg
-summary:   This is a one-sentence summary that you need to replace.
+header-image: images/clear_alienlandact.jpg
+thumbnail: images/clear_alienlandact.jpg
+summary:   Learn how the Alien Land Law traveled from California to New Mexico in the early 1900s, and how it became a relic of early anti-Japanese and anti-Asian sentiment that was only formally removed from New Mexico state legislature in 2006.
 ---
 
 # Hook/Intro Subheader, change later
