@@ -8,25 +8,26 @@ summary:   Learn how the Alien Land Law traveled from California to New Mexico i
 
 # Hook/Intro Subheader, change later
 
+{% capture introduction_text %}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+{% endcapture %}
+
+{% include images/figure-wrap.html
+  image-path="images/act-1887"
+  image-position="right"
+  image-width="50%"
+  caption="example caption please change me"
+  text=introduction_text
+%}
 
 ## Agriculture, economy and "immorality"
 
-{% capture unrest_origin_text %}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-{% endcapture %}
 
-{% include images/figure-wrap.html
-  image-path="images/figure_1.jpg"
-  image-position="right"
-  image-width="50%"
-  caption="example caption please change me"
-  text=unrest_origin_text
-%}
 
 {% include typography/pullquote.html text="\"add a quote that is so interesting from a newspaper\"" %}
 
