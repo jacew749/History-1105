@@ -3,7 +3,7 @@ title: "New Mexico's Alien Land Law"
 layout: scrollstory
 header-image: images/clear_alienlandact.jpg
 thumbnail: images/act-1887.png
-summary:   Learn how the Alien Land Law came to New Mexico in the early 1900s, and how it became a relic of early anti-Japanese sentiment that was only formally removed from New Mexico state legislature in 2006.
+summary:   How alien land laws came to New Mexico in the early 1900s, and how it became a relic of early anti-Japanese sentiment that was only formally removed from New Mexico state legislature in 2006.
 ---
 
 # Hook/Intro Subheader, change later
