@@ -3,7 +3,7 @@ title: "New Mexico's Alien Land Law"
 layout: scrollstory
 header-image: images/clear_alienlandact.jpg
 thumbnail: images/act-1887.png
-summary:   Learn how the Alien Land Law traveled from California to New Mexico in the early 1900s, and how it became a relic of early anti-Japanese and anti-Asian sentiment that was only formally removed from New Mexico state legislature in 2006.
+summary:   Learn how the Alien Land Law came to New Mexico in the early 1900s, and how it became a relic of early anti-Japanese sentiment that was only formally removed from New Mexico state legislature in 2006.
 ---
 
 # Hook/Intro Subheader, change later
@@ -36,6 +36,7 @@ Talk about the quote and make a connection to next section. Lorem ipsum dolor si
 
 ## How Japanese farmers came to New Mexico
 
+{% capture farmers_text %}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
@@ -46,7 +47,15 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 - Lorem ipsum
 
 A catchy tagline here! The historical plot thickens!
+{% endcapture %}
 
+{% include images/figure-wrap.html
+  image-path="images/alien-land-law-farmer.jpg"
+  image-position="left"
+  image-width="50%"
+  caption="Community Vision. “Second generation Japanese American farmer.” 1913."
+  text=farmers_text
+%}
 
 ## What this means about anti-Japanese sentiment and immigration in New Mexico pre-WW2
 
@@ -59,10 +68,10 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/carousel_1.jpg"
+  image-path="images/clear_alienlandact.jpg"
   image-position="left"
   image-width="45%"
-  caption="Another caption and image to replace"
+  caption="The Las Cruces Sun News. "We Are United On Japanese Problem." November 28, 1919."
   text=value_reflection_text
 %}
 
