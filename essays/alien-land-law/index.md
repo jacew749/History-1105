@@ -12,11 +12,11 @@ summary:   Learn how the Alien Land Law traveled from California to New Mexico i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 {% endcapture %}
 
-{% include images/figure-wrap.html
+{% include images/act-1887
   image-path="images/act-1887"
   image-position="right"
   image-width="50%"
-  caption="example caption please change me"
+  caption="The Mesilla Valley Democrat. “Alien Land Act.” March 21, 1887."
   text=introduction_text
 %}
 
