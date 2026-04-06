@@ -41,11 +41,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
 
-**A list, a table, or another element can go here:**
-- Lorem ipsum
-- Lorem ipsum
-- Lorem ipsum
-
 A catchy tagline here! The historical plot thickens!
 {% endcapture %}
 
