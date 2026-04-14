@@ -52,7 +52,17 @@ A catchy tagline here! The historical plot thickens!
   text=farmers_text
 %}
 
-## What this means about anti-Japanese sentiment and immigration in New Mexico pre-WW2
+
+## Japanese American Response
+
+{% include typography/pullquote.html text="\"Another quote, this time from a secondary source.\"" %}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+
+## What this reveals about sentiment towards Japanese Americans and immigration in New Mexico pre-WW2
 
 {% capture value_text %}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
@@ -69,15 +79,6 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
   caption="The Las Cruces Sun News. ‘We Are United On Japanese Problem’’ November 28, 1919."
   text=value_text
 %}
-
-## Another section?
-
-{% include typography/pullquote.html text="\"Another quote, this time from a secondary source.\"" %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
 
 ## Significance and why we should care
 
