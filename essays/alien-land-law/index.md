@@ -6,10 +6,10 @@ thumbnail: images/act-1887.png
 summary:   How the Alien Land Law came to New Mexico in the early 1900s, and how it became a relic of early anti-Japanese sentiment in the state.
 ---
 
-# Hook/Intro Subheader, change later
+# New Mexico's Alien Land Law
 
 {% capture introduction_text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In 2006, a measure to annul section 22 of Article II of the New Mexico state constitution was brought before voters. The amendment had held, since 1921, that “aliens” who were considered ineligible for U.S. citizenship could not buy or own land in New Mexico. While the wording of the amendment did not mention any particular group, it was written and practiced with the targeting of the state’s Japanese population in mind. The amendment was repealed by the 2006 vote, but it remains as a relic of anti-Japanese sentiment in New Mexico and reveals much about the implicit and explicit racialization of citizenship and what it means to be considered a citizen of the United States. 
 {% endcapture %}
 
 {% include images/figure-wrap.html
