@@ -36,7 +36,9 @@ These ideas and accusations illustrated an unforgiving picture of Japanese immig
 
 {% include typography/pullquote.html text="\"He is opposed… because he does not care a hang about any kind of government we may have, so long as he can get the most dollars out of the soil…\"" %}
 
-This sentiment soon spread from Doña Ana County to the rest of the state; the end result was proposals and discussions of restricting Japanese immigrant access to economic success based on ideas of immorality and inherent un-American qualities. Then, in September 1921, New Mexican voters approved section 22 of Article II. 
+This sentiment soon spread from Doña Ana County to the rest of the state; the end result was proposals and discussions of restricting Japanese immigrant access to economic success based on ideas of immorality and inherent un-American qualities[^youchoose5]. Then, in September 1921, New Mexican voters approved section 22 of Article II. 
+
+[^youchoose5]: The Las Cruces Sun News. *We Are United On Japanese Problem* (The Las Cruces Sun News:1919), pg 1.
 
 
 ## How Japanese farmers came to New Mexico
