@@ -9,7 +9,9 @@ summary:   How the Alien Land Law came to New Mexico in the early 1900s, and how
 # New Mexico's Alien Land Law
 
 {% capture introduction_text %}
-In 2006, a measure to annul section 22 of Article II of the New Mexico state constitution was brought before voters. The amendment had held, since 1921, that “aliens” who were considered ineligible for U.S. citizenship could not buy or own land in New Mexico. While the wording of the amendment did not mention any particular group, it was written and practiced with the targeting of the state’s Japanese population in mind. The amendment was repealed by the 2006 vote, but it remains as a relic of anti-Japanese sentiment in New Mexico and reveals much about the implicit and explicit racialization of citizenship and what it means to be considered a citizen of the United States. 
+In 2006, a measure to annul section 22 of Article II of the New Mexico state constitution was brought before voters. The amendment had held, since 1921, that “aliens” who were considered ineligible for U.S. citizenship could not buy or own land in New Mexico[^youchoose1]. While the wording of the amendment did not mention any particular group, it was written and practiced with the targeting of the state’s Japanese population in mind. The amendment was repealed by the 2006 vote, but it remains as a relic of anti-Japanese sentiment in New Mexico and reveals much about the implicit and explicit racialization of citizenship and what it means to be considered a citizen of the United States. 
+
+[^youchoose1]: Curry, Charles F. *Alien Land Laws and Alien Rights* (U.S. Government Printing Office:1921), pg. 68.
 {% endcapture %}
 
 {% include images/figure-wrap.html
