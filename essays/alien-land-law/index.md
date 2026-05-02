@@ -18,22 +18,25 @@ In 2006, a measure to annul section 22 of Article II of the New Mexico state con
   image-path="images/act-1887.png"
   image-position="right"
   image-width="50%"
-  caption="The Mesilla Valley Democrat. “Alien Land Act.” March 21, 1887."
+  caption="Early mention of an alien land law in a New Mexico newspaper, particularly one from California. (The Mesilla Valley Democrat. “Alien Land Act.” March 21, 1887.)"
   text=introduction_text
 %}
 
 ## Agriculture, economy and "immorality"
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The anti-Japanese thought that led to the Alien Land Law in New Mexico seems to have started, or at least first gained traction, in Doña Ana County in Southern New Mexico. According to scholar Jamie Bronstein, “the impetus to exclude Japanese from property ownership in New Mexico originated… among Anglo American truck farmers who resented having to compete with a handful of successful Japanese farmers”[^youchoose2]. Economic competition had begun to bear down on agriculturalists in the area, and visibly foreign Japanese immigrants were a convenient scapegoat. This sentiment is prevalent in local newspapers the years following up to the state constitutional amendment: one November 1919 article in the *Las Cruces Sun News* stated that the Japanese are “naturally opposed to the American… in color and… in thought”[^youchoose3]. Another *Las Cruces* article published a month earlier pointed out the positive traits of the local Japanese population, but then painted those traits as a threat to the region in order to object to the immigrants’ settlement: if Japanese agriculturalists were diligent in their work, they were simultaneously overly competitive and conniving; if the local Japanese valued family and common community, they also valued family to the point of exclusion[^youchoose4]. 
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+These ideas and accusations illustrated an unforgiving picture of Japanese immigrants that was taken up throughout New Mexico before culminating in the 1921 amendment to the state constitution.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+[^youchoose2]: Bronstein, Jamie. *Sowing Discontent: The 1921 Alien Land Act in New Mexico* (Pacific Historical Review:2013), pg 363.
 
+[^youchoose3]: The Las Cruces Sun News. *We Are United On Japanese Problem* (The Las Cruces Sun News:1919), pg 1.
 
-{% include typography/pullquote.html text="\"add a quote that is so interesting from a newspaper\"" %}
+[^youchoose4]: The Las Cruces Sun News. *White vs. Yellow et al* (The Las Cruces Sun News:1919), pg 1.
 
-Talk about the quote and make a connection to next section. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+{% include typography/pullquote.html text="\"He is opposed… because he does not care a hang about any kind of government we may have, so long as he can get the most dollars out of the soil…\"" %}
+
+	This sentiment soon spread from Doña Ana County to the rest of the state; the end result was proposals and discussions of restricting Japanese immigrant access to economic success based on ideas of immorality and inherent un-American qualities. Then, in September 1921, New Mexican voters approved section 22 of Article II. 
 
 
 ## How Japanese farmers came to New Mexico
