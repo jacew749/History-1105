@@ -62,7 +62,7 @@ When the Alien Land Law was written into New Mexico state constitution, the live
   image-path="images/alien-land-law-farmer.jpg"
   image-position="left"
   image-width="45%"
-  caption="Second generation Japanese American farmer from California. (Community Vision CA, photograph taken 1913.)
+  caption="Second generation Japanese American farmer from California. (Community Vision CA. Photograph taken 1913.)"
   text=farmers_text
 %}
 
