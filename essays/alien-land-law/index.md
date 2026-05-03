@@ -85,7 +85,7 @@ This resulted in a culture of racial exclusion, where Japanese migrants, seen as
   image-path="images/clear_alienlandact.jpg"
   image-position="right"
   image-width="50%"
-  caption="A newspaper explaining the Japanese "problem" that the white American population must fight. (The Las Cruces Sun News."We Are United On Japanese Problem." November 28, 1919.)"
+  caption="A newspaper explaining the Japanese "problem" that the white American population must fight. (The Las Cruces Sun News.''We Are United On Japanese Problem.'' November 28, 1919.)"
   text=value_text
 %}
 
