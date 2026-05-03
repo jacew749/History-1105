@@ -38,7 +38,7 @@ These ideas and accusations illustrated an unforgiving picture of Japanese immig
 
 {% include typography/pullquote.html text="\"He is opposed… because he does not care a hang about any kind of government we may have, so long as he can get the most dollars out of the soil…\"" %}
 
-This sentiment soon spread from Doña Ana County to the rest of the state; the end result was proposals and discussions of restricting Japanese immigrant access to economic success based on ideas of immorality and inherent un-American qualities[^youchoose5]. Then, in September 1921, New Mexican voters approved section 22 of Article II. 
+This sentiment soon spread from Doña Ana County to the rest of the state; the end result was proposals and discussions of restricting Japanese immigrant access to economic success based on ideas of immorality and inherent un-American qualities[^youchoose5]. Then, in 1921, New Mexican voters approved section 22 of Article II. 
 
 [^youchoose5]: The Las Cruces Sun News. *We Are United On Japanese Problem* (The Las Cruces Sun News:1919), pg 1.
 
@@ -69,18 +69,23 @@ When the Alien Land Law was written into New Mexico state constitution, the live
 ## New Mexican values in the early 1900s and their consequences
 
 {% capture value_text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+By 1921, New Mexico had only been recognized as a U.S. state for 9 years. Before and after it was recognized as a state, an enduring wish for many of the white Americans settling there was to “establish the territory and state as recognizably American,” according to Bronstein[^youchoose9]. This idea of visibility attached to reputation deeply informed the values and actions of New Mexicans: any practice and any person that was considered non-American (read: non-white) was at best inscrutable and at worst malignant. New Mexico also looked to other states to inform their own decisions: California law at the time was explicitly anti-Asian, so New Mexicans sought to emulate what they saw as a righteous American initiative: New Mexican newspapers reported on anti-Asian California law, such as an article in the Mesilla Valley Democrat that stated that California’s Alien Land Act was “a matter of much importance to New Mexico in particular”[^youchoose10].
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+This resulted in a culture of racial exclusion, where Japanese migrants, seen as perpetual foreigners with immoral, un-American ways, “resided in the land but at the same time were permanently excluded from its social fabric”[^youchoose11]. 
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+[^youchoose9]: Bronstein, Jamie. *Sowing Discontent: The 1921 Alien Land Act in New Mexico* (Pacific Historical Review:2013), pg 364.
+
+[^youchoose10]: The Mesilla Valley Democrat. *Alien Land Act* (The Mesilla Valley Democrat:1887), pg 1.
+
+[^youchoose11]: Bronstein, Jamie. *Sowing Discontent: The 1921 Alien Land Act in New Mexico* (Pacific Historical Review:2013), pg 364.
+
 {% endcapture %}
 
 {% include images/figure-wrap.html
   image-path="images/clear_alienlandact.jpg"
   image-position="right"
   image-width="50%"
-  caption="The Las Cruces Sun News. ‘We Are United On Japanese Problem’’ November 28, 1919."
+  caption="A newspaper explaining the Japanese "problem" that the white American population must fight. (The Las Cruces Sun News."We Are United On Japanese Problem." November 28, 1919.)"
   text=value_text
 %}
 
