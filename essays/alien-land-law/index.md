@@ -46,18 +46,22 @@ This sentiment soon spread from Doña Ana County to the rest of the state; the e
 ## How Japanese farmers came to New Mexico
 
 {% capture farmers_text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+Japanese migrants first came to New Mexico in small numbers, with only about 250 Japanese in New Mexico by 1920 according to scholar Masakazu Iwata[^youchoose6]; however, their presence in local agriculture quickly became significant. In the Las Cruces area, “the Issei entered farming… purchased land and operated on an extensive scale”[^youchoose7], building livelihoods within communities rather than remaining on the margins. They brought with them farming knowledge and practices that stood out from white American farmers, which resulted in Japanese migrants introducing new vegetables to the region and successfully controlling their crop rotation and production; their developed knowledge and adaptability granted them economic success and stability[^youchoose8]. 
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+When the Alien Land Law was written into New Mexico state constitution, the lives of many Japanese agriculturalists changed: it suddenly became much more difficult to find economic success, even more so than when Japanese migrants were facing discriminatory sentiment from much of the public.
 
-A catchy tagline here! The historical plot thickens!
+[^youchoose6]: Iwata, Masakazu. *Planted in Good Soil: A History of the Issei in the United States Agriculture* (P. Lang:1992), pg 702.
+
+[^youchoose7]: Iwata, Masakazu. *Planted in Good Soil: A History of the Issei in the United States Agriculture* (P. Lang:1992), pg 703.
+
+[^youchoose8]: Iwata, Masakazu. *Planted in Good Soil: A History of the Issei in the United States Agriculture* (P. Lang:1992), pg 705.
 {% endcapture %}
 
 {% include images/figure-wrap.html
   image-path="images/alien-land-law-farmer.jpg"
   image-position="left"
   image-width="45%"
-  caption="Community Vision. “Second generation Japanese American farmer.” 1913."
+  caption="Second generation Japanese American farmer from California. ([Community Vision](https://communityvisionca.org/about/theory-of-change/). 1913)
   text=farmers_text
 %}
 
