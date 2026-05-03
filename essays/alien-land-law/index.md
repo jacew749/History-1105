@@ -91,11 +91,20 @@ This resulted in a culture of racial exclusion, where Japanese migrants, seen as
 
 ## Japanese American Response
 
-{% include typography/pullquote.html text="\"Another quote, this time from a secondary source.\"" %}
+{% include typography/pullquote.html text="\"I know it wasn’t right but that was the law… but we lived through it.\"" %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+Many families were forced to adapt and work around this new law, including the Nakayama family, who moved to Doña Ana County in 1918[^youchoose12]. They rented farmland, working while saving to purchase their own. However, by the time they had enough money in 1928, the amendment prohibiting the purchase of land by persons ineligible for citizenship had already been in place for seven years. The Nakayamas decided to purchase the land in their then-twelve-year-old-son’s name. In this way, the dream of owning a farm was “partially realized”[^youchoose13].
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The response to the law and the prejudice surrounding it was also met with protest from Japanese Americans. One Japanese American farmer, Ben Shimada, responded publicly to the accusations about Japanese values and their detriment to American society: he said that it was his “duty to answer and refute all the charges… lest the public may be misled”[^youchoose14]. This resilience continued from the 1910s to the wartime of the 1940s: the Nakayama farm was boycotted due to state-backed suspicion and mistreatment of Japanese Americans. Families had to continuously insist that “[their] consciences are clear… [they] haven’t done anything to hurt [the American] government, and [they] love [their] country as much as anybody” [^youchoose15]. 
+
+[^youchoose12]: O’Cain, Jane Loy. *Two Families’ Stories of the Japanese-American Experience in the Mesilla Valley* (Southern New Mexico Historical Review:1998), pg 31.
+
+[^youchoose13]: O’Cain, Jane Loy. *Two Families’ Stories of the Japanese-American Experience in the Mesilla Valley* (Southern New Mexico Historical Review:1998), pg 27.
+
+[^youchoose14]: O’Cain, Jane Loy. *Two Families’ Stories of the Japanese-American Experience in the Mesilla Valley* (Southern New Mexico Historical Review:1998), pg 27.
+
+[^youchoose15]: O’Cain, Jane Loy. *Two Families’ Stories of the Japanese-American Experience in the Mesilla Valley* (Southern New Mexico Historical Review:1998), pg 31.
+
 
 
 
