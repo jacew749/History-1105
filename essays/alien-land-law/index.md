@@ -18,7 +18,7 @@ In 2006, a measure to annul section 22 of Article II of the New Mexico state con
   image-path="images/act-1887.png"
   image-position="right"
   image-width="50%"
-  caption="Early mention of an alien land law in a New Mexico newspaper, particularly a law from California. (The Mesilla Valley Democrat. “Alien Land Act.” March 21, 1887.)"
+  caption="Early mention of an alien land law in a New Mexico newspaper, particularly a law from California. [Source: The Mesilla Valley Democrat. “Alien Land Act.” March 21, 1887.]"
   text=introduction_text
 %}
 
@@ -38,7 +38,7 @@ These ideas and accusations illustrated an unforgiving picture of Japanese immig
 
 {% include typography/pullquote.html text="\"He is opposed… because he does not care a hang about any kind of government we may have, so long as he can get the most dollars out of the soil…\"" %}
 
-This sentiment soon spread from Doña Ana County to the rest of the state; the end result was proposals and discussions of restricting Japanese immigrant access to economic success based on ideas of immorality and inherent un-American qualities[^youchoose5]. Then, in 1921, New Mexican voters approved section 22 of Article II. 
+This sentiment, exemplified in the above quote from the *Las Cruces Sun News*, soon spread from Doña Ana County to the rest of the state; the end result was proposals and discussions of restricting Japanese immigrant access to economic success based on ideas of immorality and inherent un-American qualities[^youchoose5]. Then, in 1921, New Mexican voters approved section 22 of Article II. 
 
 [^youchoose5]: The Las Cruces Sun News. *We Are United On Japanese Problem* (The Las Cruces Sun News:1919), pg 1.
 
@@ -62,7 +62,7 @@ When the Alien Land Law was written into New Mexico state constitution, the live
   image-path="images/alien-land-law-farmer.jpg"
   image-position="left"
   image-width="45%"
-  caption="Second generation Japanese American farmer from California. (Community Vision CA. Photograph taken 1913.)"
+  caption="Second generation Japanese American farmer from California. [Source: Community Vision CA. Photograph taken 1913.]"
   text=farmers_text
 %}
 
@@ -93,7 +93,7 @@ This resulted in a culture of racial exclusion, where Japanese migrants, seen as
 
 {% include typography/pullquote.html text="\"I know it wasn’t right but that was the law… but we lived through it.\"" %}
 
-Many families were forced to adapt and work around this new law, including the Nakayama family, who moved to Doña Ana County in 1918[^youchoose12]. They rented farmland, working while saving to purchase their own. However, by the time they had enough money in 1928, the amendment prohibiting the purchase of land by persons ineligible for citizenship had already been in place for seven years. The Nakayamas decided to purchase the land in their then-twelve-year-old-son’s name. In this way, the dream of owning a farm was “partially realized”[^youchoose13].
+Many families were forced to adapt and work around this new law, including the Nakayama family, who moved to Doña Ana County in 1918. They rented farmland, working while saving to purchase their own. However, by the time they had enough money in 1928, the amendment prohibiting the purchase of land by persons ineligible for citizenship had already been in place for seven years. The Nakayamas decided to purchase the land in their then-twelve-year-old-son, Carl's, name. He reflects on this difficulty in the above quote[^youchoose12]. In this way, the dream of owning a farm was “partially realized”[^youchoose13].
 
 The response to the law and the prejudice surrounding it was also met with protest from Japanese Americans. One Japanese American farmer, Ben Shimada, responded publicly to the accusations about Japanese values and their detriment to American society: he said that it was his “duty to answer and refute all the charges… lest the public may be misled”[^youchoose14]. This resilience continued from the 1910s to the wartime of the 1940s: the Nakayama farm was boycotted due to state-backed suspicion and mistreatment of Japanese Americans. Families had to continuously insist that “[their] consciences [were] clear… [they] haven’t done anything to hurt [their] government, and [they] love [their] country as much as anybody” [^youchoose15]. 
 
