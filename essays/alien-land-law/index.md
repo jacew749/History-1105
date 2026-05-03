@@ -18,7 +18,7 @@ In 2006, a measure to annul section 22 of Article II of the New Mexico state con
   image-path="images/act-1887.png"
   image-position="right"
   image-width="50%"
-  caption="Early mention of an alien land law in a New Mexico newspaper, particularly one from California. (The Mesilla Valley Democrat. “Alien Land Act.” March 21, 1887.)"
+  caption="Early mention of an alien land law in a New Mexico newspaper, particularly a law from California. (The Mesilla Valley Democrat. “Alien Land Act.” March 21, 1887.)"
   text=introduction_text
 %}
 
