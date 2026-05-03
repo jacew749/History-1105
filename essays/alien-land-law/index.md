@@ -46,7 +46,7 @@ This sentiment soon spread from Doña Ana County to the rest of the state; the e
 ## How Japanese farmers came to New Mexico
 
 {% capture farmers_text %}
-Japanese migrants first came to New Mexico in small numbers, with only about 250 Japanese in New Mexico by 1920 according to scholar Masakazu Iwata[^youchoose6]; however, their presence in local agriculture quickly became significant. In the Las Cruces area, “the Issei entered farming… purchased land and operated on an extensive scale”[^youchoose7], building livelihoods within communities rather than remaining on the margins. They brought with them farming knowledge and practices that stood out from white American farmers, which resulted in Japanese migrants introducing new vegetables to the region and successfully controlling their crop rotation and production; their developed knowledge and adaptability granted them economic success and stability[^youchoose8]. 
+Japanese migrants first came to New Mexico in small numbers, with only about 250 Japanese in New Mexico by 1920 according to scholar Masakazu Iwata; however, their presence in local agriculture quickly became significant[^youchoose6]. In the Las Cruces area, “the Issei entered farming… purchased land and operated on an extensive scale”, building livelihoods within communities rather than remaining on the margins[^youchoose7]. They brought with them farming knowledge and practices that stood out from white American farmers, which resulted in Japanese migrants introducing new vegetables to the region and successfully controlling their crop rotation and production; their developed knowledge and adaptability granted them economic success and stability[^youchoose8]. 
 
 When the Alien Land Law was written into New Mexico state constitution, the lives of many Japanese agriculturalists changed: it suddenly became much more difficult to find economic success, even more so than when Japanese migrants were facing discriminatory sentiment from much of the public.
 
@@ -55,6 +55,7 @@ When the Alien Land Law was written into New Mexico state constitution, the live
 [^youchoose7]: Iwata, Masakazu. *Planted in Good Soil: A History of the Issei in the United States Agriculture* (P. Lang:1992), pg 703.
 
 [^youchoose8]: Iwata, Masakazu. *Planted in Good Soil: A History of the Issei in the United States Agriculture* (P. Lang:1992), pg 705.
+
 {% endcapture %}
 
 {% include images/figure-wrap.html
